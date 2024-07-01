@@ -1,14 +1,14 @@
 {        
     "fecha_entregas": [
            {
-            "codigo": "1050",   
+            "codigo": 1050,   
             "fecha_recogida": "12-18-2024",
-            "hora_recogida": "16:40"  
+            "hora_recogida": "1640"  
             },
             {
-            "codigo": "9040",   
+            "codigo": 9040,   
             "fecha_recogida": "12-18-2024",
-            "hora_recogida": "16:00"
+            "hora_recogida": "1600"
             }
     ]
 }
