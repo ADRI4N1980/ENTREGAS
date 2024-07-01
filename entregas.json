@@ -2,11 +2,13 @@
     {
     "codigo": 1050,  
     "nombre": "Juana",
+    "fecha_recogida": "15/05/2024",     
     "hora_recogida": "16:30"  
     },
     {
     "codigo": 9040,   
     "nombre": "Andres",
+    "fecha_recogida": "15/05/2024", 
     "hora_recogida": "16:00"
     }
 ]
